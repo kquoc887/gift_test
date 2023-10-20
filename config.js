@@ -1,4 +1,4 @@
-const nameGirl = 'Em';
+const nameGirl = 'Mấy người';
 const giftUrl = '#';
 const eventName = 'Chúc Mừng 20-10';
 const titleCard = 'Liêng Thảo';
