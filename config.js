@@ -1,6 +1,6 @@
-const nameGirl = 'Bé Bơ';
+const nameGirl = 'Bé 🥑';
 const giftUrl = '#';
-const eventName = 'HPBD Bé 🥑';
+const eventName = 'HPBD';
 const titleCard = 'Thu Phương (Bé Bơ)';
 const contentCard = 'Chúc bé Bơ sẽ thành công với shop hiện tại hơn, sẽ vui hơn và hạnh phúc hơn, gặt hái được nhiều mong ước mà mình đã đề ra, sớm thành nữ doanh nhân trẻ, hi vọng sau này sẽ cùng nhau đón sinh nhật nhiều hơn nữa';
 
