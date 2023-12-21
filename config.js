@@ -1,8 +1,8 @@
-const nameGirl = 'Mấy người';
+const nameGirl = 'Bé Bơ';
 const giftUrl = '#';
-const eventName = 'Chúc Mừng 20-10';
-const titleCard = 'Liêng Thảo';
-const contentCard = 'Chúc mấy người ngày càng xinh đẹp là điều đầu tiên, có sức khỏe tốt, trong tương lai mấy người sẽ đi du lịch được nhiều nơi mà mấy người muốn đi hơn nữa, cười nhiều hơn, ngủ sớm hơn để có thể rãnh đi dạo cuối tuần buổi sáng cùng tui, hi vọng hôm nay điều tốt và đẹp nhất sẽ đến với mấy người và cả những ngày sau này nữa.';
+const eventName = 'HPBD';
+const titleCard = 'Thu Phương (Bé Bơ)';
+const contentCard = 'Chúc bé Bơ sẽ thành công hơn trong công việc hiện tại bé Bơ vừa mới làm đây, sẽ vui hơn và hạnh phúc hơn, hi vọng sau này sẽ cùng nhau đón sinh nhật nhiều hơn nữa';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
